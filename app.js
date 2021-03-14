@@ -14,6 +14,6 @@ phrase.innerHTML = "Happy Wednesday!";
 phrase.innerHTML = "Happy Thursday!";
 } else if (console.log == 6) {
 phrase.innerHTML = "Happy Saturday!";
-} else if (console.log == 7) {
+} else if (console.log == 0) {
 phrase.innerHTML = "Happy Sunday!";
 }
